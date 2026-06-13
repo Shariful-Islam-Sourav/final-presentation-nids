@@ -234,6 +234,6 @@ MIT is one of the most permissive open source licenses: anyone may use, copy, mo
 ---
 
 ## 👤 Author
-
+SOURAV MD SHARIFUL ISLAM
 **Sejong University — Introduction to Open Source Software**
-Instructor: Junaid Rashid | Final Assignment — June 2026
+
