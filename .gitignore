@@ -1,0 +1,25 @@
+# Python bytecode — auto-generated, never commit
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE settings — personal, not project-related
+.idea/
+.vscode/
+*.iml
+
+# Virtual environment
+venv/
+.env/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
